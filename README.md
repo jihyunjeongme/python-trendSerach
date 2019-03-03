@@ -153,7 +153,7 @@ df.plot.line()
 ## Conclusion
 
 - 데이터를 분석해보면 `{"period":"2018-05-01","ratio":100}` 2018년 5월 가장 검색이 많았으면 확인 할 수 있습니다. 이유는 5월에 북미정상회담에 대한 이슈들이 가장 많았기 때문이라고 추측할 수 있습니다. 또한 최근들어 그래프가 상승하는 이유는 북미정상회담이 2019년 2월 베트남에서 열린것과 연관되어 있다고 볼수 있습니다.
-  <img src="https://user-images.githubusercontent.com/43984584/53692557-8201df80-3dd5-11e9-936a-40f1f7a4b560.png">
+  <img src="https://user-images.githubusercontent.com/43984584/53692598-1f5d1380-3dd6-11e9-84d3-2c9acfdf6df0.png">
 - 출처 : [2018 북미정상회담,위키백과](https://ko.wikipedia.org/wiki/2018%EB%85%84_%EB%B6%81%EB%AF%B8%EC%A0%95%EC%83%81%ED%9A%8C%EB%8B%B4)
 
 ## 기타 문의
